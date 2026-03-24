@@ -3,9 +3,8 @@ import react from "@vitejs/plugin-react-swc";
 import path from "path";
 import { componentTagger } from "lovable-tagger";
 
-// https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: "/Itzfizz-hero-animation/", // 👈 🔥 ADD THIS (VERY IMPORTANT)
+  base: "/Itzfizz/", 
 
   server: {
     host: "::",
