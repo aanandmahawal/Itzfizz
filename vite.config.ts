@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: "/itzfizz-hero-animation/", // 👈 🔥 ADD THIS (VERY IMPORTANT)
+  base: "/Itzfizz-hero-animation/", // 👈 🔥 ADD THIS (VERY IMPORTANT)
 
   server: {
     host: "::",
